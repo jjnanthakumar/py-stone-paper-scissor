@@ -1,3 +1,6 @@
+'''THIS CODE IS CREATED BY NANTHAKUMAR J J U CAN USE THIS CODE AND MODIFY BUT DONT FORGOT TO GIVE CREDITS TO https://jjnanthakumar.github.io/'''
+'''#FEEL FREE TO CONTACT ME IF ANY ERROR OCCURS#'''
+#HAVE FUN
 import random, sys
 class Player:
     def __init__(self):
