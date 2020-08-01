@@ -6,7 +6,7 @@ class Player:
 class Computer(Player):
     def play(self):
         d = {1: "stone", 2: "paper", 3: "scissor"}
-        h_val = input("Enter stone, paper or scissor: ")
+        h_val = input("Enter stone, paper or scissor:-->  ")
         h_val = h_val.lower()
         try:
             if  h_val != 'stone' and h_val != 'paper' and h_val != 'scissor':
