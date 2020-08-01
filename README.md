@@ -2,6 +2,8 @@
 Have some fun by playing this game......
 Simple U can play this game in your own machine
 
+***IF U HAVE ANY IDE'S LIKE VISUAL STUDIO OR PYCHARM ETC.. THEN DONT FOLLOW THESE STEPS AND U CAN EASILY RUN THIS CODE WITH ONE CLICK IN IDE'S****
+
 step1:--> You need to install python(any version > 3.0) on your machine and you can find download link below
           https://www.python.org/downloads/  # Note: Based on Your OS choose..(it can be windows, Linux, Mac etc..)
           
