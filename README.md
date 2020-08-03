@@ -16,12 +16,12 @@ step3:--> Now U r ready to rock press winkey+R it will open run in that text box
           
 step4:--> Next copy the path then in cmd type "cd <path_from_where_the_file_downloaded>" and press enter.
 
-step5:--> Next type "py <filename>.py" and press enter. 
+step5:--> Next type "py <file_name>.py" and press enter. 
 
 ****************************************************Thats it play and have fun*******************************************************
 Note:
     --> remember quoutes is only for your reference
     --> if u followed thes steps properly then sure the program will be executed
-    --> any errors in code feel free to CONTACT ME "jjnanthakumar.github.io"
+    --> any errors in code feel free to CONTACT ME "https://jjnanthakumar.github.io"
 
           
